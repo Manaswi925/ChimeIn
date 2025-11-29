@@ -7,10 +7,6 @@ A social networking platform with automated content moderation and context-based
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Schema Diagram](#schema-diagram)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [License](#license)
 
 ## Project Overview
 
